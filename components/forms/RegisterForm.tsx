@@ -295,7 +295,7 @@ export const RegisterForm = ({ user }: { user: User }) => {
             control={form.control}
             name="identificationNumber"
             label="Identification number"
-            placeholder="1324567890"
+            placeholder="1234567890"
           />
 
           <CustomFormfield
